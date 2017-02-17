@@ -46,19 +46,7 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
-###############################################################################
-# https://mmistakes.github.io/minimal-mistakes/docs/posts/
-defaults:
-  - 
-    scope:
-      path: ""
-    values:
-      layout: single
-      author_profile: true
-      read_time: false
-      comments: true
-      share: true
-      related: true
+
 ##############################################################
 # https://mmistakes.github.io/minimal-mistakes/docs/pages/
 
@@ -94,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : W1BUR
-  avatar           : ../assets/w1bur_logo.png
+  avatar           : /assets/w1bur_logo.png
   bio              : 
   location         : Boston, MA
   email            : w1bur.radio@gmail.com
@@ -254,11 +242,11 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: #posts
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
       share: true
-      related: true
+      related: false
