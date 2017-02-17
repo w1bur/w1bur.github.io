@@ -1,0 +1,18 @@
+---
+layout: archive
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: header.jpg
+excerpt: "W1BUR Boston University Amateur Radio"
+---
+
+{% include base_path %}
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% include paginator.html %}

@@ -1,0 +1,17 @@
+# main links
+main:
+
+  - title: "Wiki"
+    url: https://github.com/w1bur/w1bur-wiki/wiki
+
+  - title: "Projects"
+    url: /project/
+
+  - title: "BUSAT"
+    url: /busat/
+
+  - title: "History"
+    url: /history/
+
+  - title: "About"
+    url: /about/
