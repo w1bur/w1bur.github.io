@@ -18,3 +18,19 @@ The need for additional bandwidth for the relatively short BUSAT mission ultimat
 Nonetheless, the BUSAT ground station serves other Cubesat missions.
 
 Please contact us if your Cubesat or balloon team needs ground station support.
+
+## BUSAT Ground Station
+This is not an exhaustive list.
+
+### BUSAT Antennas
+
+* Glen Martin RT-832
+* 430 MHz Circularly Polarized M<sup>2</sup> 436CP30  (switchable polarization relays not installed)
+* 144 MHz Circularly Polarized M<sup>2</sup> 2MCP14 (switchable polarization relays not installed)
+
+### BUSAT Equipment
+Almost everything powered from main power supply and Anderson Powerpole distribution bus.
+
+* Kenwood TS-2000 (no 1200 MHz option)
+* 50 Amp Astron linear power supply
+* Kantronics KPC-9612+
