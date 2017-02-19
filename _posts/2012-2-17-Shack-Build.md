@@ -11,7 +11,7 @@ From 2012-2016, the W1BUR station roamed in Photonics, until the opening of the 
 
 ![important diagrams](/assets/images/2012/cabinet-notes.jpg)
 
-![assemble radio cabiet](/assets/images/2012/cabinet-build.jpg)
+![assemble radio cabinet](/assets/images/2012/cabinet-build.jpg)
 
 ![drill radio cabinet](/assets/images/2012/cabinet-drill.jpg)
 

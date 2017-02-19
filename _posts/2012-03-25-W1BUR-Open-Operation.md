@@ -12,9 +12,6 @@ Boston University Amateur Radio Club operated amateur radio station W1BUR on Sun
 CQ WPX Contest is one of the world's largest amateur radio competition for 1.8 to 28MHz also known as the "High Frequency" bands. 
 Last year, more than 5143 radio stations participated this contest, with participant increasing every year since 1975.
 
-Anyone is welcome to walk in and experience getting on-the-air on amateur radio.
-
-W1BUR will be operating on *Sunday, March 25 2012* from *10:00AM to 06:00PM* at *PHO 111*.
 
 ## Previous Operation
 Previously, W1BUR operated on March 3rd, 2012. 
