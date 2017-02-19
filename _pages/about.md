@@ -5,6 +5,8 @@ permalink: /about/
 
 W1BUR: Boston University Amateur Radio Club
 
+{% include toc %}
+
 ## Serving students, staff, faculty, alumni and the community
 
 Licensed or not-yet-licensed persons of interest please contact us for fun and learning with wireless communications
@@ -26,6 +28,3 @@ Our student members are also affiliated with and support student organizations i
 * [Boston University Rocket Propulsion Group (BURPG)](http://www.burocket.org/)
 * [Boston University Satellite (BUSAT and ANDESITE)](http://www.bu.edu/busat/satellites/andesite/)
 
-## Contact
-
-[w1bur@bu.edu](mailto:w1bur@bu.edu)

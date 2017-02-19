@@ -4,9 +4,9 @@ categories:
     - contest
 ---
 
-Boston University Amateur Radio Club will be operating amateur radio station, W1BUR, on Sunday, March 25, 2012 in PHO111 for one of the world's largest amateur radio competition, [CQ World-Wide WPX Contest](http://www.cqwpx.com/)
+Boston University Amateur Radio Club operated amateur radio station W1BUR on Sunday, March 25, 2012 for one of the world's largest amateur radio competition, [CQ World-Wide WPX Contest](http://www.cqwpx.com/)
 
-![CQ WPX 2012](/images/w1bur_cqwpx_2012.jpg)
+![CQ WPX 2012](/assets/images/2012/w1bur_cqwpx_2012.jpg)
 
 ## WPX Contest
 CQ WPX Contest is one of the world's largest amateur radio competition for 1.8 to 28MHz also known as the "High Frequency" bands. 

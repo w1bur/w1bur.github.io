@@ -6,16 +6,19 @@ categories:
 
 Members of W1BUR - Boston University Amateur Radio Club gathered on February 12, 2012 to build a cabinet for the new shack.
 
-![important diagrams](/images/IMGP6064.jpg)
+From 2012-2016, the W1BUR station roamed in Photonics, until the opening of the old permanent station in 2017.
 
-![assemble radio cabiet](/images/IMGP6081.jpg)
 
-![drill radio cabinet](/images/IMGP6091.jpg)
+![important diagrams](/assets/images/2012/cabinet-notes.jpg)
 
-![install lock](/images/IMGP6093.jpg)
+![assemble radio cabiet](/assets/images/2012/cabinet-build.jpg)
 
-![complete cabinet](/images/IMGP6095.jpg)
+![drill radio cabinet](/assets/images/2012/cabinet-drill.jpg)
 
-![W1BUR radio equipment in cabinet](/images/IMGP6088.jpg)
+![install lock](/assets/images/2012/cabinet-latch.jpg)
+
+![complete cabinet](/assets/images/2012/cabinet-lock.jpg)
+
+![W1BUR radio equipment in cabinet](/assets/images/2012/cabinet-mount.jpg)
 
 W1BUR is located in the Boston University Photonics Center.

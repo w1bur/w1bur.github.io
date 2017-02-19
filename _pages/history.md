@@ -3,8 +3,11 @@ title: History of W1BUR
 permalink: /history/
 ---
 
+{% include figure 
+image_path="/assets/images/dukakis-w1bur.jpg" 
+alt="Gov. Dukakis receives radiogram via W1BUR" 
+caption="Massachusetts Governor Dukakis receives a radiogram from W1BUR." %}
 
-![Gov. Dukakis radiogram](/images/dukakis.png)
 Boston University student Scott Lieberman presents Governor Michael Dukakis of Massachusetts with a "radiogram" from Governor James Longley of Maine on Feb. 2, 1977. 
 The radiogram was received on Jan. 29, 1977 during the annual amateur radio simulated emergency test. 
 Photo taken by Rich Jezierny.
@@ -19,11 +22,11 @@ From 1997-present, the BUARC has been hosted on the first floor of the Photonics
 Long, low-loss coax cables are installed from the first floor up to the rooftop. 
 There is a separate rooftop setup for the BU satellite team with a Kenwood TS-2000 and 2m/70cm circularly polarized M2 yagis that was installed in 2012.
 
-### Public Service
+## Public Service
 
 Historical public service activities of the club include Hurricane Belle in August 1976. 
 International outreach included the Feb-Mar. 1976 earthquake and aftershocks in Guatemala, where a BU student was able to get a message to/from their parents who lived in the affected region.
 
-### Historical Member Rosters
+## Historical Member Rosters
 
-##### todo add scanned rosters from 1970s-1980s
+### todo add scanned rosters from 1970s-1980s

@@ -1,5 +1,7 @@
 ---
 title: W1BUR is still here
+categories:
+  - station
 ---
 
 We lost access to our main ham shack room due to exciting research that needed the space. 
