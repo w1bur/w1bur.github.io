@@ -3,6 +3,8 @@ title: BUSAT
 permalink: /busat/
 ---
 
+{% include toc %}
+
 The BUARC has worked hand-in-hand with the BUSAT cubesat team with regard to the wireless communications portion. 
 We have assisted in communicating through several satellites. 
 The terrestrial range of the system is excellent. 
