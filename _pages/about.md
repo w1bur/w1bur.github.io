@@ -3,13 +3,13 @@ title: About W1BUR
 permalink: /about/
 ---
 
-W1BUR: Boston University Amateur Radio Club
+W1BUR: Boston University Amateur Radio Wireless Club
 
 {% include toc %}
 
 ## Serving students, staff, faculty, alumni and the community
 
-Licensed or not-yet-licensed persons of interest please contact us for fun and learning with wireless communications
+Licensed or not-yet-licensed persons of interest please contact us for fun and learning with wireless communications.
 
 ## Summary
 The Boston University Amateur Radio Club (BUARC), FCC-licensed callsign W1BUR, reactivated in 2011 and actively engages with the Boston University student community for public service and networking opportunities involving wireless communications.
@@ -28,27 +28,4 @@ Our student members are also affiliated with and support student organizations i
 * [Boston University Rocket Propulsion Group (BURPG)](http://www.burocket.org/)
 * [Boston University Satellite (BUSAT and ANDESITE)](http://www.bu.edu/busat/satellites/andesite/)
 
-## W1BUR Station
-This section enumerates the primary equipment of W1BUR Boston University Amateur Radio Club as of 2017. 
-It is not an exhaustive list.
-
-See [BUSAT page for their equipment](/busat).
-
-### W1BUR Antenna Farm
-
-* Broadband HF dipole
-* End fed 20m 
-* VHF/UHF vertical
-* Cushcraft HF yagi (disassembled)
-* rotor for HF yagi (very likely frozen as it hasn't been used in many years)
-
-### W1BUR Equipment
-Equipment is generally wired for Anderson Powerpole.
-
-* Icom IC-756 (non-Pro)
-* Ten Tec Omni VI+ (no transmit on 80m)
-* Yaesu VHF/UHF mobile (CTCSS encode only)
-* Kantronics KPC-9612+
-* rotor controller
-* 25 Amp power supply 
 

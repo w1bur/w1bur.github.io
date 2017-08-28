@@ -7,10 +7,25 @@ permalink: /station/
 
 W1BUR has benefited greatly from the support of the Undergraduate Program Office and donors whose generosity we recognize.
 
-The current W1BUR station equipment roster includes:
+This enumeration of the primary equipment of W1BUR Boston University Amateur Radio Club as of 2017 is not an exhaustive list.
+
+### W1BUR Antenna Farm
+
+* Broadband HF dipole
+* End fed 20m 
+* VHF/UHF vertical
+* Cushcraft HF yagi (disassembled)
+* rotor for HF yagi (very likely frozen as it hasn't been used in many years)
+
+### W1BUR Equipment
+Equipment is generally wired for Anderson Powerpole.
 
 * Icom IC-756 (non-Pro)
-* Ten Tec Omni VI  (transmit broken on 80 meters)
+* Ten Tec Omni VI+ (no transmit on 80m)
+* Yaesu VHF/UHF mobile (CTCSS encode only)
+* Kantronics KPC-9612+
+* rotor controller
+* 25 Amp power supply
 * Ameritron AL-811 amplifier (wired for 120 Vac)
 * Intel Core 2 Duo PC with latest Ubuntu Linux
 * MFJ Antenna analyzer
