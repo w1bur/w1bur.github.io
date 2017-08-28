@@ -3,13 +3,18 @@ title: Boston University GMRS/Ham repeaters
 permalink: /repeaters/
 ---
 
+{% include toc %}
+
 There is good coverage of Boston University campus from the MIT repeater, just across the Charles River. 
 There is also a nearby [GMRS](https://en.wikipedia.org/wiki/General_Mobile_Radio_Service#Licensing) repeater.
 
 Repeater | License |Callsign | Repeater Transmit [MHz] | Repeater Offset [MHz] | PL TX [Hz] | PL RX [Hz]
 ---------|---------|----------|-------------------------|-----------------------|-------|------
-MIT      | Amateur | W1XM-R   |  449.725                | - 5.0                 | 114.8 | 114.8
-Fenway   | GMRS | WQYQ870-R | 462.625 | + 5.0 |  |
+MIT      | Amateur | W1XM   |  449.725                | - 5.0                 | 114.8 | 114.8
+Fenway   | GMRS | WQYQ870 | 462.625 | + 5.0 |  |
+
+## Other Boston University area repeaters
+The [New England Repeater Directory](http://nerepeaters.com/) is a fantastic resource for amateur radio repeaters and simplex/internet links.
 
 
 ## Cost of Amateur Radio vs. GMRS license
