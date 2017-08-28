@@ -107,9 +107,10 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : groups/w1bur/
   foursquare       :
   github           : w1bur
+  gitlab           :
   google_plus      :
   keybase          :
   instagram        :
@@ -198,7 +199,7 @@ timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-redirect-from
   - jekyll-paginate
   - jekyll-sitemap
