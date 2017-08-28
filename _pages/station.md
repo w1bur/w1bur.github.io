@@ -1,10 +1,26 @@
 ---
-title: BUSAT
-permalink: /busat/
+title: W1BUR Station
+permalink: /station/
 ---
 
 {% include toc %}
 
+W1BUR has benefited greatly from the support of the Undergraduate Program Office and donors whose generosity we recognize.
+
+The current W1BUR station equipment roster includes:
+
+* Icom IC-756 (non-Pro)
+* Ten Tec Omni VI  (transmit broken on 80 meters)
+* Ameritron AL-811 amplifier (wired for 120 Vac)
+* Intel Core 2 Duo PC with latest Ubuntu Linux
+* MFJ Antenna analyzer
+* SWR meters
+* iambic CW key
+
+W1BUR is in the Photonics Building, in space generously provided by the ECE Department and specifically thanks to Professor Horenstein and ECE Department Chair W. C. Karl.
+
+
+## BUSAT Ground Station
 The BUARC has worked hand-in-hand with the BUSAT cubesat team with regard to the wireless communications portion. 
 We have assisted in communicating through several satellites. 
 The terrestrial range of the system is excellent. 
@@ -14,9 +30,6 @@ The need for additional bandwidth for the relatively short BUSAT mission ultimat
 Nonetheless, the BUSAT ground station serves other Cubesat missions.
 
 Please contact us if your Cubesat or balloon team needs ground station support.
-
-## BUSAT Ground Station
-This is not an exhaustive list.
 
 ### BUSAT Antennas
 
