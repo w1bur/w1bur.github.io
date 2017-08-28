@@ -1,17 +1,17 @@
 # main links
 main:
 
-  - title: "Wiki"
-    url: https://github.com/w1bur/w1bur-wiki/wiki
+  - title: Repeaters
+    url: /repeaters/
 
-  - title: "Projects"
-    url: /project/
-
-  - title: "Station"
+  - title: Station
     url: /station/
 
-  - title: "History"
+  - title: Wiki
+    url: https://github.com/w1bur/w1bur-wiki/wiki
+
+  - title: History
     url: /history/
 
-  - title: "About"
+  - title: About
     url: /about/

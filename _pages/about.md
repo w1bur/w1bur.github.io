@@ -3,8 +3,6 @@ title: About W1BUR
 permalink: /about/
 ---
 
-W1BUR: Boston University Amateur Radio Wireless Club
-
 {% include toc %}
 
 ## Serving students, staff, faculty, alumni and the community
