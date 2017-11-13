@@ -61,7 +61,6 @@ When I get time I'll try to verify with HT at top floor (in case repeater was ju
 
 freq (MHz) | callsign | distance (mi) | notes
 ---------|----------|---------------|-------
-
 147.36   | W1LJO    | 5.3   | Newton, MA
 146.91   | K1SVP     | 9.4  | Saugus, MA
 146.79   | N1BE     | 10.1  | Weston, MA
