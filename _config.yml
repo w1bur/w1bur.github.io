@@ -5,8 +5,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+future                   : true
 # Site Settings
 locale                   : "en"
 title                    : "Boston University Amateur Radio Club"
@@ -51,6 +51,8 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
+search                   : true #, false (default)
+
 ########################
 defaults:
   - scope:
@@ -76,9 +78,8 @@ defaults:
 # SEO Related
 google_site_verification : _8dr3j9tmAHQ8h9QGsMkTU46rwoOoo8XmqmRxwugl9g
 bing_site_verification   : 059C1C0AF94766840ED9E2D6C728BD22
-alexa_site_verification  :
 yandex_site_verification :
-naver-site-verification  :
+naver_site_verification  :
 
 # Social Sharing
 twitter:
