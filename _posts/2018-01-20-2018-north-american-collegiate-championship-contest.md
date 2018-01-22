@@ -10,6 +10,18 @@ Contest parameters include:
 * station must be on college campus
 * station must use college club callsign (W1BUR)
 * Maximum transmit power 100 Watts
+* students only
+
+## Results
+
+{% include figure 
+image_path="/assets/images/2018/nacc_prelim.png" 
+alt="College Amateur Radio Contest results table" 
+caption="2018 NACC preliminary scores." %}
+
+It seems like there may be an antenna issue? 
+Or unfavorable propagation?
+
 
 ## Notes
 
