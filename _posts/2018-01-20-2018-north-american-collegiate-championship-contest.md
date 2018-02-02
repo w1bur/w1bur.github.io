@@ -12,6 +12,10 @@ Contest parameters include:
 * Maximum transmit power 100 Watts
 * students only
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">NA QSO contest ham radio Boston <a href="https://t.co/cOh4K4lTKk">https://t.co/cOh4K4lTKk</a></p>&mdash; Michael Hirsch Ph.D. (@sci_vision) <a href="https://twitter.com/sci_vision/status/954919598104576000?ref_src=twsrc%5Etfw">January 21, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 ## Results
 
 {% include figure 
@@ -21,6 +25,8 @@ caption="2018 NACC preliminary scores." %}
 
 It seems like there may be an antenna issue? 
 Or unfavorable propagation?
+
+
 
 
 ## Notes
